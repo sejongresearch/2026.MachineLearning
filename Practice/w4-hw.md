@@ -6,7 +6,7 @@
   - 조교캐글 아이디: sejong_sjpark (junibro), JeongMinShin (sjmin99), in taek Shin (intaekshin), Jaeyun Lee (leejaeyun20011937), ahnuhyun (ahnuhyun)   
 - 과제 제출 기한: 2026년 03월 30일 오후 11시 55분
 - 이메일 제목 : [기계학습][4주차][실습과제1] 은하계 종류 예측 (학번_이름)
-- 파일 제목 : [2026-1][ML][W4P1] 학번_이름
+- 노트북(코드) 제목 : [2026-1][ML][W4P1] 학번_이름
 
 
 ## [기계학습][4주차][실습과제2] Logistic Regression을 이용하여 수면시간에 따른 우울증 예측 문제를 해결하라
@@ -17,5 +17,5 @@
   - 조교캐글 아이디: sejong_sjpark (junibro), JeongMinShin (sjmin99), in taek Shin (intaekshin), Jaeyun Lee (leejaeyun20011937), ahnuhyun (ahnuhyun)
 - 과제 제출 기한: 2026년 03월 30일 오후 11시 55분
 - 이메일 제목 : [기계학습][4주차][실습과제2] 수면시간에 따른 우울증 예측 (학번_이름)
-- 파일 제목 : [2026-1][ML][W4P2] 학번_이름
+- 노트북(코드) 제목 : [2026-1][ML][W4P2] 학번_이름
 
