@@ -30,3 +30,6 @@
 | 6 | 의사결정나무 실습 | [과제설명서](https://github.com/sejongresearch/2026.MachineLearning/blob/main/Practice/w6-hw.md) | 2026.04.09 | | 캐글답안제출하기 | 대면수업 |
 | 7 | 중간고사 | *수업없음 | 2026.04.14 <br> 7시-10시 | | | 대면시험 |
 
+| 8 | SVM 이론 | [PDF1]() <br> [PDF2]() <br> [Notebook1](https://www.kaggle.com/code/yukyungchoi/8-linear-svm-1/) <br> [Notebook2](https://www.kaggle.com/code/yukyungchoi/8-nonlinear-svm-2/) <br> [Notebook3](https://www.kaggle.com/code/yukyungchoi/8-svm-3/)| 2026.04.21 | [영상1](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=335726) <br> [영상2](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=335727) <br> [영상3](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=335728)  | | 비대면수업 |
+| 8 | SVM 실습 | [과제설명서](https://github.com/sejongresearch/2026.MachineLearning/blob/main/Practice/w8-hw.md) | 2026.04.23 | | 캐글답안제출하기 | 대면수업 |
+
