@@ -35,7 +35,7 @@
 | 9 | 앙상블 실습 | [과제설명서](https://github.com/sejongresearch/2026.MachineLearning/blob/main/Practice/w9-hw.md) | 2026.04.30 | | 캐글답안제출하기 | 대면수업 |
 | 10 | 휴강 | 국가공휴일 | 2026.05.05 | |  | 수업 없음  |
 | 10 | 중간고사 <br> 다시풀기 | [과제설명서](https://github.com/sejongresearch/2026.MachineLearning/blob/main/Practice/w10-hw.md) | 2026.05.07 | | 캐글답안제출하기 | 대면수업 |
-| 11 | 군집화 이론 | [PDF1]() <br> [PDF2]() | 2026.05.12 | |  | 비대면수업  |
+| 11 | 군집화 이론 | [PDF1](https://github.com/sejongresearch/2026.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B11%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%80%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%92%E1%85%AA%20%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20(2026).pdf) <br> [PDF2](https://github.com/sejongresearch/2026.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B11%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%80%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%92%E1%85%AA%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%20(2026).pdf) | 2026.05.12 | [영상1](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=342253) <br> [영상2](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=342261) <br> [영상3](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=342255) <br> [영상4](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=342254) |  | 비대면수업  |
 | 11 | 군집화 실습 | [과제설명서]()  | 2026.05.14 | |  | 대면수업  |
 | * | 텀프로젝트 <br> 안내 | [텀프설명서]() |  | |  | 캐글답안제출하기  |
 | 12 | 차원축소 |  | 2026.05.19 | |  | 비대면수업  |
