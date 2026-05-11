@@ -40,10 +40,10 @@
 | * | 텀프로젝트 <br> 안내 | [텀프설명서]() |  | |  | 캐글답안제출하기  |
 | 12 | 차원축소 | [PDF1](https://github.com/sejongresearch/2026.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B12%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A9%20%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20(2026).pdf) <br> [PDF2](https://github.com/sejongresearch/2026.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B12%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%20(2026).pdf) <br> [Notebook1](https://www.kaggle.com/code/yukyungchoi/12-pca-1) | 2026.05.19 | [영상1](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=342652) <br> [영상2](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=342653) <br> [영상3](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=342654) |  | 비대면수업  |
 | 12 | 차원축소 | [과제설명서](https://github.com/sejongresearch/2026.MachineLearning/blob/main/Practice/w11-hw.md) | 2026.05.21 | |  | 대면수업  |
-| 13 | 교차검증 |  | 2026.05.26 | |  | 비대면수업  |
-| 13 | 교차검증 |  | 2026.05.28 | |  | 대면수업  |
-| 14 | 텀프로젝트 <br> Q&A |  | 2026.06.02 | |  | 대면수업  |
-| 14 | 텀프로젝트 <br> Q&A |  | 2026.06.04 | |  | 대면수업  |
+| 13 | 교차검증 | [PDF1](https://github.com/sejongresearch/2026.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B13%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%80%E1%85%AD%E1%84%8E%E1%85%A1%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC%20%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20(2026).pdf) <br> [PDF2](https://github.com/sejongresearch/2026.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B13%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%80%E1%85%AD%E1%84%8E%E1%85%A1%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%20(2026).pdf) <br> [Notebook1](https://www.kaggle.com/code/yukyungchoi/13-pipeline-1)  | 2026.05.26 | [영상1](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=342698) <br> [영상2](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=342699)|  | 비대면수업  |
+| 13 | 교차검증 | [과제설명서]() | 2026.05.28 | |  | 대면수업  |
+| 14 | 텀프로젝트 <br> 집중기간 |  | 2026.06.02 | |  | 대면수업  |
+| 14 | 텀프로젝트 <br> 집중기간 |  | 2026.06.04 | |  | 대면수업  |
 | * | 텀프로젝트 <br> 마감 |  |  | |  | 캐글답안제출하기  |
 | 15 | 수업없음 |  | 2026.06.09 | |  | 기말고사 대체  |
 | 15 | 기말고사 |  | 2026.06.11  <br> 오후 7시-10시| |  | 대면시험  |
