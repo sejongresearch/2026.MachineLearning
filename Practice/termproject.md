@@ -15,10 +15,10 @@
 - 코드에는 반드시 나의 코드를 설명하는 주석이 포함되어야 함 (직접 작성한 Empty Module의 코드에 대해서만 주석을 달면 됨)
 
 ### 프로젝트 문제 (준비 중)
-- [P1][1D 센서 데이터][센서데이터를 이용한 행동 분류]()
-- [P2][1D 텍스트 데이터][한국어 영화 리뷰 분류]()
-- [P3][1D 음성 데이터][음악 장르 분류]()
-- [P4][2D 영상 데이터][이미지 데이터 분류]()
+- [P1][1D 센서 데이터] [센서데이터를 이용한 행동 분류](https://www.kaggle.com/competitions/2026-ml-TP1-1), [프로젝트 설명 영상](https://youtu.be/bIZQZ_czy4w)
+- [P2][1D 텍스트 데이터] [한국어 영화 리뷰 분류](https://www.kaggle.com/competitions/2026-ml-TP2), [프로젝트 설명 영상](https://youtu.be/TUIFmIxQhM4)
+- [P3][1D 음성 데이터] [음악 장르 분류](https://www.kaggle.com/competitions/2026-ml-TP3), [프로젝트 설명 영상](https://youtu.be/bTwkC-TeYWk)
+- [P4][2D 영상 데이터] [이미지 데이터 분류](https://www.kaggle.com/competitions/2026-ml-TP4), [프로젝트 설명 영상](https://youtu.be/xMX5D093esU)
 - 주의사항: **스켈레톤코드에서 제공하는 분류기는 변경하지 않습니다.** (하이퍼파라미터는 변경 가능)
  
 ## 프로젝트 마감
