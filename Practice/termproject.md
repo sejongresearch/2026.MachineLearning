@@ -15,7 +15,7 @@
   - Yukyung Choi, sejong_sjpark (junibro), JeongMinShin (sjmin99), in taek Shin (intaekshin), Jaeyun Lee (leejaeyun20011937), ahnuhyun (ahnuhyun)
 - 코드에는 반드시 나의 코드를 설명하는 주석이 포함되어야 함 (직접 작성한 Empty Module의 코드에 대해서만 주석을 달면 됨)
 
-### 프로젝트 문제 (준비 중)
+### 프로젝트 문제
 - [P1][1D 센서 데이터] [센서데이터를 이용한 행동 분류](https://www.kaggle.com/competitions/2026-ml-TP1-1), [프로젝트 설명 영상](https://youtu.be/bIZQZ_czy4w)
 - [P2][1D 텍스트 데이터] [한국어 영화 리뷰 분류](https://www.kaggle.com/competitions/2026-ml-TP2), [프로젝트 설명 영상](https://youtu.be/TUIFmIxQhM4)
 - [P3][1D 음성 데이터] [음악 장르 분류](https://www.kaggle.com/competitions/2026-ml-TP3), [프로젝트 설명 영상](https://youtu.be/bTwkC-TeYWk)
